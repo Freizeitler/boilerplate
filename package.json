@@ -1,5 +1,5 @@
 {
-  "name": "maw-cms-theme",
+  "name": "boilerplate",
   "version": "1.0.0",
   "private": "true",
   "author": "menadwork GmbH (http://www.menadwork.com)",
@@ -16,14 +16,15 @@
     "grunt-contrib-cssmin": "latest",
     "grunt-contrib-clean": "latest",
     "grunt-contrib-imagemin": "latest",
-    "grunt-csscomb": "latest",
+    "grunt-contrib-copy": "latest",
     "grunt-autoprefixer": "latest",
+    "grunt-csswring": "latest",
     "dalekjs": "latest",
     "grunt-dalek": "latest",
     "dalek-browser-chrome": "latest",
     "dalek-browser-firefox": "latest",
     "dalek-browser-ie": "latest",
     "dalek-browser-ios": "latest",
-    "dalek-reporter-html": "latest"
+    "dalek-reporter-html": "latest""
   }
 }
