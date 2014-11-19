@@ -43,7 +43,7 @@
     <!--<link rel="stylesheet" href="css-min/app.css">-->
 
     <!-- Get customized modernizr from http://modernizr.com/download/ -->
-    <script src="vendor/modernizr-2.8.3.min.js"></script>
+    <script src="vendor/modernizr.custom.67687.js"></script>
 </head>
 
 <body>
