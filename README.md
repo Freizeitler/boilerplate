@@ -1,8 +1,6 @@
-boilerplate like a pro
+boilerplate
 ===========
 
-- Mobile-detect for RESS support
-- Rich snippet searchAction, breadcrumb
 
 
 
