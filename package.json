@@ -2,7 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "private": "true",
-  "author": "menadwork GmbH (http://www.menadwork.com)",
+  "author": "menadwork kommunikation GmbH (http://www.menadwork.com)",
   "devDependencies": {
     "grunt": "latest",
     "matchdep": "latest",
@@ -25,6 +25,6 @@
     "dalek-browser-firefox": "latest",
     "dalek-browser-ie": "latest",
     "dalek-browser-ios": "latest",
-    "dalek-reporter-html": "latest""
+    "dalek-reporter-html": "latest"
   }
 }
