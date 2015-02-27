@@ -8,5 +8,14 @@
 // Helper
 @import "helper";
 
-// no bootstrap
+// Base Styles
 @import "base";
+
+// Modules
+@import "modules/example";
+
+// Sections
+@import "sections/example";
+
+// Pages
+@import "pages/example";
